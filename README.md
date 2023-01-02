@@ -1,2 +1,2 @@
-# Slot2
+# spinner
 Created with CodeSandbox
